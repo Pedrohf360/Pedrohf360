@@ -6,7 +6,7 @@
 
 ### You can find me at :alien:
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/pedrohf360/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Pedro H. Ferreira Fonseca LinkedIn Profile" height="30" width="30">
   </a>
