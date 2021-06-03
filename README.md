@@ -4,7 +4,7 @@
 - ⚡ Using MEAN Stack, most of the time: MongoDB, Express.js, Angular 2+, Node.js;
 - 🎒 Gratuated at PUC Minas in Information Systems course (2020)
 
-<h2 align="center">You can find me at :alien:</h2>
+### You can find me at :alien:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedrohf360/">
