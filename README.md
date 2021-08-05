@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at Abas Online as a Software developer (visit us at 
-<a href="https://abas.online" target="_blank">Abas Online</a>
-);
+<a href="https://abas.online" target="_blank">Abas Online</a>);
 - ⚡ Using MEAN Stack, most of the time: MongoDB, Express.js, Angular 2+, Node.js;
 - 🎒 Gratuated at PUC Minas in Information Systems course (2020)
 
