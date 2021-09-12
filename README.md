@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Abas Online as a Software developer (visit us at 
-<a href="https://abas.online" target="_blank">Abas Online</a>);
-- ⚡ Using MEAN Stack, most of the time: MongoDB, Express.js, Angular 2+, Node.js;
-- 🎒 Gratuated at PUC Minas in Information Systems course (2020)
+- 🔭 I’m currently working at Daitan Group as a Software Developer (visit us at 
+<a href="https://daitan.com" target="_blank">Daitan Group</a>);
+- ⚡ Using MEAN Stack, most of the time: MongoDB, Express.js, Angular 2+, Node.js. Furthermore, also studying relational databases as PostgreSQL and another front-end frameworks, such as ReactJS, beyond server-side technologies, which currently are focused in AWS;
+- 🎒 Gratuated at PUC Minas in Information Systems course (2020).
 
 ### You can find me at:
 
