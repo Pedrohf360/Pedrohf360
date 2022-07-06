@@ -12,6 +12,10 @@
   </a>
   &nbsp;
   <a href="https://stackshare.io/pedrohf360" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
+    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Pedro H. Ferreira Fonseca StackShare Profile" height="30" width="30">
+  </a>
+  &nbsp;
+  <a href="  https://profile.codersrank.io/user/pedrohf360" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/48912960?s=200&v=4" alt="Pedro H. Ferreira Fonseca codersrank Profile" height="30" width="30">
   </a>
 </p>
