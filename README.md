@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at <a href="https://daitan.com" target="_blank">Daitan Group</a> as a Software Developer;
+- 🔭 I’m currently working at <a href="https://www.encora.com" target="_blank">Encora</a> as a Software Developer;
 - ⚡ Using MEAN Stack, most of the time: MongoDB, Express.js, Angular 2+, Node.js. Furthermore, also studying relational databases as PostgreSQL and another front-end frameworks, such as ReactJS, beyond server-side technologies, which currently are focused in AWS;
 - 🎒 Gratuated at PUC Minas in Information Systems course (2020).
 
