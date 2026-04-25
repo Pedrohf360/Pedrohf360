@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at <a href="https://www.encora.com" target="_blank">Encora</a> as a Software Developer;
-- ⚡ Using MEAN Stack, most of the time: MongoDB, Express.js, Angular 2+, Node.js. Furthermore, also studying relational databases as PostgreSQL and another front-end frameworks, such as ReactJS, beyond server-side technologies, which currently are focused in AWS;
+- 🔭 I’m currently working at <a href="https://www.coforge.com" target="_blank">Coforge</a> as a Software Developer;
+- ⚡ Experienced with JavaScript-based stacks, including MEAN and MERN (MongoDB, Express, Angular/React, Node.js), as well as relational databases like PostgreSQL and cloud-based architectures on AWS.
 - 🎒 Gratuated at PUC Minas in Information Systems course (2020).
 
 ### You can find me at:
